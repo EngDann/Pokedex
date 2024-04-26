@@ -61,7 +61,7 @@ Your contributions are very welcome! If you have suggestions for improving this 
 
 1. **Fork the project**:
 
-    Create a fork of the project to your GitHub account by clicking on the "Fork" button located at the top right corner of the repository page.
+    Create a fork of the project to your GitHub account  clicking on the "Fork" button located at the top right corner of the repository page.
 
 2. **Clone the fork**:
 
@@ -99,7 +99,7 @@ Please make detailed descriptions in your commits and pull requests to facilitat
 
 ## Credits
 
--   Designed and developed by EngDann, with guidance from various online resources and community contributions.
+-   Designed and developed by EngDann.
 -   Icons and Pokémon data provided by the respective copyright holders.
 
 ## Contact
@@ -212,7 +212,7 @@ Por favor, faça descrições detalhadas em seus commits e pull requests para fa
 
 ## Créditos
 
--   Desenvolvido por EngDann, com orientação de diversos recursos online e contribuições da comunidade.
+-   Desenvolvido por EngDann.
 -   Ícones e dados dos Pokémon fornecidos pelos respectivos detentores dos direitos autorais.
 
 ## Contato
