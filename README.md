@@ -53,7 +53,7 @@ The project does not require the installation of additional dependencies, as it 
 
 ## Video
 
-[Video link - replace this text with your actual video URL]
+https://github.com/EngDann/Pokedex/assets/137555908/9314f6d3-e81a-4061-97de-486af8bd5767
 
 ## Contributions
 
@@ -166,7 +166,7 @@ O projeto não requer a instalação de dependências adicionais, pois é totalm
 
 ## Vídeo
 
-[Link do vídeo - substitua este texto pelo URL do seu vídeo real]
+https://github.com/EngDann/Pokedex/assets/137555908/9314f6d3-e81a-4061-97de-486af8bd5767
 
 ## Contribuições
 
