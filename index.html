@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Pokédex</title>
+        <link rel="stylesheet" href="./CSS/style.css" />
+        <link rel="icon" href="./img/favicon-16x16.png" />
+
+        <script src="./JS/script.js" defer></script>
+    </head>
+    <body>
+        <main id="container-img">
+            <select id="shiny_default">
+                <option value="default">Default</option>
+                <option value="shiny">Shiny</option>
+            </select>
+            <img src="#" alt="pokemon" class="pokemon_image" />
+            <h1 class="pokemon_data">
+                <span class="pokemon_num"></span> -
+                <span class="pokemon_name"></span>
+            </h1>
+            <form class="form">
+                <input
+                    type="search"
+                    class="input_search"
+                    placeholder="Name or Number"
+                    required
+                />
+            </form>
+            <div class="buttons">
+                <button class="button btn-prev">&lt Prev</button>
+                <button class="button btn-next">Next &gt</button>
+            </div>
+            <img src="./img/pokedex.png" alt="Pokédex" class="pokedex" />
+        </main>
+    </body>
+</html>
